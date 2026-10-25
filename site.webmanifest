@@ -1,0 +1,15 @@
+{
+  "name": "Lancha Fusion — Passeios de Lancha em Paraty",
+  "short_name": "Lancha Fusion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF8F3",
+  "theme_color": "#072320",
+  "icons": [
+    {
+      "src": "img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
